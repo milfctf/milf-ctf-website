@@ -1,4 +1,4 @@
-baseURL: "https://milfctf.com/"
+baseURL: "https://milf.club/"
 languageCode: en-us
 title: MILF | French CTF Team
 theme: PaperMod
@@ -15,7 +15,7 @@ params:
       - name: Members 👄
         url: "/members"
       - name: Blog ✏️
-        url: "https://blog.milfctf.com/"
+        url: "https://blog.milf.club/"
     assets:
       favicon: "favicon.ico"
       favicon16x16: "favicon-16x16.png"

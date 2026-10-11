@@ -6,7 +6,7 @@ author: "Me"
 # author: ["Me", "You"] # multiple authors
 draft: false
 description: "Here is a list of MILF average enjoyers"
-canonicalURL: "https://milfctf.com/members"
+canonicalURL: "https://milf.club/members"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
